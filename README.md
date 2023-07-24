@@ -1,15 +1,22 @@
 # fin_fin_ses
 
-A new Flutter project.
+sES final project.
 
-## Getting Started
+## video
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+https://github.com/samuel2l/ses-final/assets/129121368/5a30e360-9038-4d31-a5f1-7241aa36c2e5
+
+
+
+
+## video
+
+
+https://github.com/samuel2l/ses-final/assets/129121368/d68fd008-d813-4121-aaf3-f9029ce8b32b
+
+
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
